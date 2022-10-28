@@ -1,0 +1,5 @@
+[autorun] 
+icon=icon.ico
+open=autorun.cmd
+action=Click to run.
+shell\open\command=autorun.cmd

@@ -1,0 +1,1 @@
+%Windir%\System32\WindowsPowerShell\v1.0\PowerShell.exe -exec bypass -noprofile -file basescript.ps1
